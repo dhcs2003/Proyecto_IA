@@ -1308,7 +1308,7 @@ class JefeFinal:
         if self.fase_actual in ("B", "C"):
             desviaciones += [math.radians(22), math.radians(-22)]
         if self.fase_actual == "C":
-            ddesviaciones += [math.radians(45), math.radians(-45)]
+            desviaciones += [math.radians(45), math.radians(-45)]
 
         for desv in desviaciones:
             angulo = angulo_base + desv
