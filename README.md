@@ -11,3 +11,8 @@ Inferencia Dinámica: Ejecución de la predicción del modelo en tiempo de ejecu
 
 Público Objetivo
 Este código está estructurado para estudiantes, desarrolladores junior o entusiastas de la programación que buscan un puente práctico entre los fundamentos teóricos de las redes neuronales y su integración en sistemas interactivos orientados a objetos.
+
+# Instalación de dependencias
+Este proyecto fue desarrollado y probado con Python 3.11. Para instalar todas las librerías necesarias con las versiones correctas, abre tu terminal en la carpeta del proyecto y ejecuta el siguiente comando:
+
+pip install -r requirements.txt
